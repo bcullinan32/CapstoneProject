@@ -1,0 +1,8 @@
+For Tinger:
+
+1) Explain project
+2) Explain what I've done
+3) Look at debt fields
+4) Review restatement identification process -- anything different including variables
+4) Review 4.4's
+5) general review of variables kept/ removed
