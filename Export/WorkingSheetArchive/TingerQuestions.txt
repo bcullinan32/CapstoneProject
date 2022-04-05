@@ -6,3 +6,12 @@ For Tinger:
 4) Review restatement identification process -- anything different including variables
 4) Review 4.4's
 5) general review of variables kept/ removed
+
+Second Meeting:
+
+1) Review list to see if there is anything he can spot that I don't need
+	-- purple highlights are the notable for review
+2) src code -- does he know how to read this to see if there is a restatement (Could map all values to restate y/n and make a dummy var to compare)
+3) Thoughts about aggregation -- if rolled up, what would be meaningful -- mean/std/median/etc.
+4) Review stock volatility
+4) Stocks -- shares outstanding
