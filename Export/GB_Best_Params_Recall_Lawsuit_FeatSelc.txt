@@ -1,0 +1,1 @@
+{"exDict": {"learning_rate": 0.5, "max_depth": 10, "max_features": 8, "min_samples_split": 75, "n_estimators": 100}}
