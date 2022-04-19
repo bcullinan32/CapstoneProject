@@ -1,0 +1,1 @@
+{"exDict": {"n_components": 1, "solver": "lsqr"}}
