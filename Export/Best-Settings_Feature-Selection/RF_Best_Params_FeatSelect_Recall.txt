@@ -1,0 +1,1 @@
+{"exDict": {"criterion": "gini", "max_depth": 5, "max_leaf_nodes": 96, "min_samples_split": 2, "n_estimators": 1000}}
